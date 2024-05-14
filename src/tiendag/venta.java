@@ -1,7 +1,7 @@
 
 package tiendag;
 
-//aqui ponemos las variables
+//aqui ponemos las variables de la venta
 public class venta {
      int id;
     String descripcion;
